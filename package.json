@@ -1,6 +1,6 @@
 {
   "name": "genesis-core",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "The Quantum Command & Adaptive Runtime (QCAR) for an evolving AI-powered WhatsApp bot. Integrates with Metacognitive Nexus for advanced cognitive functions and self-optimization.",
   "main": "src/main.js",
   "type": "module",
