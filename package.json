@@ -1,0 +1,43 @@
+{
+  "name": "genesis-core",
+  "version": "1.0.0",
+  "description": "The Quantum Command & Adaptive Runtime (QCAR) for an evolving AI-powered WhatsApp bot. Integrates with Metacognitive Nexus for advanced cognitive functions and self-optimization.",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.18",
+    "metacognitive-nexus": "^0.1.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {},
+  "author": "Profesor Ilmuwan Doktor Aisyah (razzaqinspires)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razzaqinspires/genesis-core.git"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "ai",
+    "artificial-intelligence",
+    "metacognitive-nexus",
+    "qcar",
+    "adaptive-ai",
+    "llm-orchestration",
+    "self-learning",
+    "multimodal",
+    "command-system",
+    "anti-spam",
+    "cooldown",
+    "afk-bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/razzaqinspires/genesis-core/issues"
+  },
+  "homepage": "https://github.com/razzaqinspires/genesis-core#readme"
+}

@@ -1,0 +1,36 @@
+# Node.js module dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+.pnpm-debug.log
+.pnpm-store/
+.npm/
+
+# Environment variables - CRITICAL FOR SECURITY
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build artifacts and temporary files
+dist/
+build/
+*.tsbuildinfo
+*.log
+
+# IDE and OS generated files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Persistent data for Genesis Core
+# This folder contains session data, bot configuration, scheduled tasks, and AFK status.
+# It should NOT be committed to version control.
+data/
+
+# Session data for Baileys (WhatsApp connection state)
+sessions/
